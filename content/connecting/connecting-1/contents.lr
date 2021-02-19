@@ -8,3 +8,5 @@ description:
 One of the most common issues that causes connection errors in Tor Browser is an incorrect system clock.
 Please make sure your system clock and timezone are set accurately.
 If this doesn't fix the problem, see the Troubleshooting page on the [Tor Browser manual](https://tb-manual.torproject.org/en-US/troubleshooting).
+
+Tor exited during startup. This might be due to an error in your torrc file, a bug in Tor or another program on your system, or faulty hardware. Until you fix the underlying problem and restart Tor, Tor Browser will not start.
